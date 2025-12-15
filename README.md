@@ -168,4 +168,4 @@ medallion-students-data/
 ## 👤 Author
 
 **Jeevan M G**  
-Databricks | Data Engineering | Lakehouse Architecture
+Data Engineering
